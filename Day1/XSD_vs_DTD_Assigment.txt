@@ -1,0 +1,12 @@
+
+ASSIGNMENT 
+Q. Difference between XSD vs DTD?
+1.XML schemas are written in XML while DTD are derived from SGML syntax.
+2.XML schemas define datatypes for elements and attributes while DTD doesn't support datatypes.
+3.XML schemas allow support for namespaces while DTD does not.
+4.XML schemas define number and order of child elements, while DTD does not.
+5.XML schemas can be manipulated on your own with XML DOM but it is not possible in case of DTD.
+6.using XML schema user need not to learn a new language but working with DTD is difficult for a user.
+7.XML schema provides secure data communication i.e sender can describe the data in a way that receiver will understand,
+ but in case of DTD data can be misunderstood by the receiver.
+8.XML schemas are extensible while DTD is not extensible.
